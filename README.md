@@ -34,10 +34,10 @@ As I progress, I’ll note key lessons or strategies that I've learned along the
 - Optimizing recursive solutions with memoization.
 - When to use BFS vs DFS in graph problems.
 
-## 🏆 Achievements
+<!--## 🏆 Achievements
 - [ ] 30 Days of LeetCode Challenge Completion
 - [ ] 100 Problems Solved
-- [ ] Mastery of Dynamic Programming
+- [ ] Mastery of Dynamic Programming -->
 
 ## 🚀 Future Goals
 - Explore and solve problems on advanced topics like Segment Trees and Disjoint Set Union (DSU).
