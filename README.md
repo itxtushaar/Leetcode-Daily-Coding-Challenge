@@ -4,10 +4,10 @@ Welcome to my LeetCode progression tracker! This repository documents my daily j
 
 ## 📅 Progress Overview
 
-| Day  | Date       | Problems Solved        | Difficulty | Topics Covered                                                  | Notes                       |
-|------|------------|------------------------|------------|-----------------------------------------------------------------|-----------------------------|
-| Day 1| 2024-08-28 | Count Sub Islands      | Medium     | Array,Depth-First Search,Breadth-First Search,Union Find Matrix | Worked on optimizing space  |
-| Day 2| 2024-08-29 | Most Stones Removed    | Medium     | Hash Table Depth-First Search Union Find Graph                  | Implemented in C++          |
+| Day  | Date       | Problems Solved        | Difficulty | Topics Covered                                                     | Notes                       |
+|------|------------|------------------------|------------|--------------------------------------------------------------------|-----------------------------|
+| Day 1| 2024-08-28 | Count Sub Islands      | Medium     | Array, Depth-First Search, Breadth-First Search, Union Find Matrix | Worked on optimizing space  |
+| Day 2| 2024-08-29 | Most Stones Removed    | Medium     | Hash Table Depth-First Search Union Find Graph                     | Implemented in C++          |
 <!--| Day 3| YYYY-MM-DD | [Problem 3](#link)     | Hard       | Dynamic Programming, Backtracking      | Faced issues with recursion |
 <!-- Add more days as you progress -->
 
@@ -49,4 +49,4 @@ As I progress, I’ll note key lessons or strategies that I've learned along the
 - Feel free to open issues if you have questions or want to discuss specific problems.
 
 ```bash
-git clone https://github.com/yourusername/leetcode-progress.git
+git clone https://github.com/yourusername/Leetcode-Daily-Coding-Challenge.git
