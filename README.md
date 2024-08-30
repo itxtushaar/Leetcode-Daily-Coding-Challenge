@@ -4,11 +4,11 @@ Welcome to my LeetCode progression tracker! This repository documents my daily j
 
 ## 📅 Progress Overview
 
-| Day  | Date       | Problems Solved        | Difficulty | Topics Covered                                                     | Notes                       |
-|------|------------|------------------------|------------|--------------------------------------------------------------------|-----------------------------|
-| Day 1| 2024-08-28 | Count Sub Islands      | Medium     | Array, Depth-First Search, Breadth-First Search, Union Find Matrix | Worked on optimizing space  |
-| Day 2| 2024-08-29 | Most Stones Removed    | Medium     | Hash Table Depth-First Search Union Find Graph                     | Implemented in C++          |
-<!--| Day 3| YYYY-MM-DD | [Problem 3](#link)     | Hard       | Dynamic Programming, Backtracking      | Faced issues with recursion |
+| Day  | Date       | Problems Solved            | Difficulty | Topics Covered                                                     | Notes                       |
+|------|------------|----------------------------|------------|--------------------------------------------------------------------|-----------------------------|
+| Day 1| 2024-08-28 | Count Sub Islands          | Medium     | Array, Depth-First Search, Breadth-First Search, Union Find Matrix | Worked on optimizing space  |
+| Day 2| 2024-08-29 | Most Stones Removed        | Medium     | Hash Table Depth-First Search Union Find Graph                     | Implemented in C++          |
+| Day 3| YYYY-MM-DD | Modify Graph Edge Weights  | Hard       | Graph Heap (Priority Queue) Shortest Path                          | Implemented Dijkstra's Algo |
 <!-- Add more days as you progress -->
 
 ## 📚 Topics of Interest
