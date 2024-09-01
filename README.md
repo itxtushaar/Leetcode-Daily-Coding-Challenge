@@ -10,6 +10,8 @@ Welcome to my LeetCode progression tracker! This repository documents my daily j
 | Day 2| 2024-08-29 | Most Stones Removed            | Medium     | Hash Table Depth-First Search Union Find Graph                     | Implemented in C++          |
 | Day 3| 2024-08-30 | Modify Graph Edge Weights      | Hard       | Graph Heap (Priority Queue) Shortest Path                          | Implemented Dijkstra's Algo |
 | Day 4| 2024-08-31 |Path with Maximum Probability   | Medium     | Array Graph Heap (Priority Queue) Shortest Path                    | Bellman-Ford algorithm      |
+| Day 5| 2024-09-01 |Convert 1D Array Into 2D Array  | Easy       | Array Matrix Simulation                                            | Arrays                      |
+
 
 <!-- Add more days as you progress -->
 
