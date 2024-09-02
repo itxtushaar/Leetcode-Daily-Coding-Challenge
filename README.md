@@ -11,6 +11,8 @@ Welcome to my LeetCode progression tracker! This repository documents my daily j
 | Day 3| 2024-08-30 | Modify Graph Edge Weights      | Hard       | Graph Heap (Priority Queue) Shortest Path                          | Implemented Dijkstra's Algo |
 | Day 4| 2024-08-31 |Path with Maximum Probability   | Medium     | Array Graph Heap (Priority Queue) Shortest Path                    | Bellman-Ford algorithm      |
 | Day 5| 2024-09-01 |Convert 1D Array Into 2D Array  | Easy       | Array Matrix Simulation                                            | Arrays                      |
+| Day 6| 2024-09-02 |Find the Student that Will Replace the Chalk  | Medium       | Array Binary Search Simulation Prefix Sum     | Binary Search and Array                    |
+
 
 
 <!-- Add more days as you progress -->
