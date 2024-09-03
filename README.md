@@ -12,6 +12,8 @@ Welcome to my LeetCode progression tracker! This repository documents my daily j
 | Day 4| 2024-08-31 |Path with Maximum Probability   | Medium     | Array Graph Heap (Priority Queue) Shortest Path                    | Bellman-Ford algorithm      |
 | Day 5| 2024-09-01 |Convert 1D Array Into 2D Array  | Easy       | Array Matrix Simulation                                            | Arrays                      |
 | Day 6| 2024-09-02 |Find the Student that Will Replace the Chalk  | Medium       | Array Binary Search Simulation Prefix Sum     | Binary Search and Array                    |
+| Day 7| 2024-09-03 |Sum of Digits of String After Convert| Easy       | String Simulation | sum of its digits |
+
 
 
 
