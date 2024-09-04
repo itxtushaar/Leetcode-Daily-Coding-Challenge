@@ -13,6 +13,8 @@ Welcome to my LeetCode progression tracker! This repository documents my daily j
 | Day 5| 2024-09-01 |Convert 1D Array Into 2D Array  | Easy       | Array Matrix Simulation                                            | Arrays                      |
 | Day 6| 2024-09-02 |Find the Student that Will Replace the Chalk  | Medium       | Array Binary Search Simulation Prefix Sum     | Binary Search and Array                    |
 | Day 7| 2024-09-03 |Sum of Digits of String After Convert| Easy       | String Simulation | sum of its digits |
+| Day 8| 2024-09-04 |Walking Robot Simulation| Medium       | Array Hash Table Simulation | Hash Table,Conditional Loops|
+
 
 
 
